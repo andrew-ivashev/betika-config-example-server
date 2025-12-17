@@ -2,6 +2,7 @@
   "registration_fields": [
     "first_name",
     "last_name",
-    "id_number"
+    "id_number",
+    "other_names"
   ]
 }
